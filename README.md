@@ -95,4 +95,4 @@ The workbook includes:
 Aspiring Data Analyst based in the United Kingdom.
 
 - GitHub: [KishoorDataLab](https://github.com/KishoorDataLab)
-- LinkedIn: (https://www.linkedin.com/in/kishor-shida-0a5a98226)
+- LinkedIn:[Kishor Shida] (https://www.linkedin.com/in/kishor-shida-0a5a98226)
