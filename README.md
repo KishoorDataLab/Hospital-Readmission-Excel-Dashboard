@@ -1,6 +1,6 @@
 # Hospital Readmission Management Dashboard
 
-![Hospital Readmission Dashboard](Hospital_Readmission_Dashboard_Preview.png)
+![Hospital Readmission Dashboard](Hospital_Readmission_Dashboard_Preview.png.PNG)
 
 ## Project Overview
 
